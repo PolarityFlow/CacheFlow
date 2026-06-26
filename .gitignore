@@ -1,0 +1,11 @@
+# Compiled output
+CacheFlow.exe
+
+# Runtime state (created next to the exe when run)
+cacheflow-state.json
+
+# Distribution ZIPs (publish via GitHub Releases instead)
+dist/
+
+# Legacy PowerShell implementation (not part of the public source)
+legacy_powershell/
