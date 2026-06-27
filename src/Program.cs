@@ -1,5 +1,5 @@
 // ============================================================================
-//  CacheFlow v1.3 — browser cache cleaner
+//  CacheFlow v1.32 — browser cache cleaner
 //  PolarityFlow · Adrian Zingg
 //  https://www.polarityflow.com  ·  MIT License
 //
@@ -29,8 +29,8 @@ using System.Windows.Media.Imaging;
 [assembly: AssemblyCompany("PolarityFlow")]
 [assembly: AssemblyProduct("CacheFlow")]
 [assembly: AssemblyCopyright("(c) 2026 PolarityFlow, Adrian Zingg")]
-[assembly: AssemblyVersion("1.3.0.0")]
-[assembly: AssemblyFileVersion("1.3.0.0")]
+[assembly: AssemblyVersion("1.32.0.0")]
+[assembly: AssemblyFileVersion("1.32.0.0")]
 
 namespace CacheFlow
 {
@@ -325,7 +325,7 @@ namespace CacheFlow
           <Button x:Name='BtnClear' Grid.Column='2' Style='{StaticResource PrimaryBtn}' Content='Clear selected'/>
         </Grid>
         <TextBlock FontSize='11' Foreground='#5A6072' HorizontalAlignment='Center' Margin='0,12,0,0'>
-          <Run Text='CacheFlow v1.3  &#xB7;  '/><Hyperlink x:Name='SiteLink' Foreground='#5BA3C4' TextDecorations='None' ToolTip='www.polarityflow.com'><Run Text='PolarityFlow'/></Hyperlink><Run Text='  &#xB7;  Adrian Zingg'/>
+          <Run Text='CacheFlow v1.32  &#xB7;  '/><Hyperlink x:Name='SiteLink' Foreground='#5BA3C4' TextDecorations='None' ToolTip='www.polarityflow.com'><Run Text='PolarityFlow'/></Hyperlink><Run Text='  &#xB7;  Adrian Zingg'/>
         </TextBlock>
       </StackPanel>
 

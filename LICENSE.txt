@@ -20,3 +20,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+────────────────────────────────────────────────────────────────────────────
+ADDITIONAL DISCLAIMER
+────────────────────────────────────────────────────────────────────────────
+
+CacheFlow permanently deletes browser data (cache, cookies, passwords and
+other files) at your explicit instruction. These deletions are irreversible.
+Back up your data before use. It is your responsibility to verify what will
+be deleted before confirming any operation.
+
+The Software is supplied gratuitously. To the maximum extent permitted by
+applicable law, PolarityFlow and Adrian Zingg are not liable for any damage
+arising out of or in connection with the use or inability to use the Software,
+including loss of data, loss of profit, or business interruption. Nothing here
+excludes liability for unlawful intent, gross negligence, or personal injury
+where such exclusion is not permitted by law.
+
+These additional terms are governed by the laws of Switzerland. For the full
+Terms of Use and Disclaimer applicable to this Software visit
+www.polarityflow.com/terms.

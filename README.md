@@ -1,4 +1,4 @@
-﻿# CacheFlow v1.3
+﻿# CacheFlow v1.32
 
 Simple browser cache cleaner for Windows.
 **[PolarityFlow](https://www.polarityflow.com) · Adrian Zingg**
@@ -63,3 +63,5 @@ Entries set to `""` are hidden. Rebuild after changing them.
 ## License
 
 MIT — see `LICENSE.txt`. Free to use, modify, and redistribute for any purpose.
+`LICENSE.txt` also includes a brief data-deletion disclaimer and governing-law clause.
+Full Terms of Use and Disclaimer: [www.polarityflow.com/terms](https://www.polarityflow.com/terms)
