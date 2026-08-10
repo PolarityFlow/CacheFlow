@@ -1,4 +1,4 @@
-﻿# CacheFlow v1.32
+﻿# CacheFlow v1.41
 
 Simple browser cache cleaner for Windows.
 **[PolarityFlow](https://www.polarityflow.com) · Adrian Zingg**

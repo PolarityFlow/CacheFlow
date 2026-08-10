@@ -22,6 +22,11 @@ if not exist "%FW%\csc.exe" (
     /r:"%FW%\WPF\PresentationCore.dll" ^
     /r:"%FW%\WPF\WindowsBase.dll" ^
     /r:"%FW%\System.Xaml.dll" ^
+    /r:"%FW%\System.IO.Compression.dll" ^
+    /r:"%FW%\System.IO.Compression.FileSystem.dll" ^
+    /r:"%FW%\System.Web.Extensions.dll" ^
+    /r:"%FW%\System.Windows.Forms.dll" ^
+    /r:"%FW%\System.Drawing.dll" ^
     src\Program.cs
 
 if errorlevel 1 (
