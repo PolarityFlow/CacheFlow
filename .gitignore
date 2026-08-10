@@ -1,6 +1,15 @@
 # Compiled output
 CacheFlow.exe
 
+# AI / planning files — never commit these
+CLAUDE.md
+NOTES.md
+TODO.md
+PLAN.md
+ROADMAP.md
+*.session.md
+.claude/
+
 # Runtime state (created next to the exe when run)
 cacheflow-state.json
 
