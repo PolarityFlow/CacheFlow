@@ -34,7 +34,7 @@ using WinForms = System.Windows.Forms;
 [assembly: AssemblyProduct("CacheFlow")]
 [assembly: AssemblyCopyright("(c) 2026 PolarityFlow, Adrian Zingg")]
 [assembly: AssemblyVersion("1.41.0.0")]
-[assembly: AssemblyFileVersion("1.38.0.0")]
+[assembly: AssemblyFileVersion("1.41.0.0")]
 
 namespace CacheFlow
 {
@@ -375,7 +375,7 @@ namespace CacheFlow
           <Button x:Name='BtnClear' Grid.Column='2' Style='{StaticResource PrimaryBtn}' Content='Clear selected'/>
         </Grid>
         <TextBlock FontSize='11' Foreground='#5A6072' HorizontalAlignment='Center' Margin='0,12,0,0'>
-          <Run Text='CacheFlow v1.41  &#xB7;  '/><Hyperlink x:Name='SiteLink' Foreground='#5BA3C4' TextDecorations='None' ToolTip='www.polarityflow.com'><Run Text='PolarityFlow'/></Hyperlink><Run Text='  &#xB7;  Adrian Zingg'/>
+          <Run Text='CacheFlow v1.41  &#xB7;  '/><Hyperlink x:Name='SiteLink' Foreground='#5BA3C4' TextDecorations='None' ToolTip='www.polarityflow.com'><Run Text='PolarityFlow'/></Hyperlink>
         </TextBlock>
         <TextBlock x:Name='UpdateBar' FontSize='11' HorizontalAlignment='Center' Margin='0,3,0,0' Visibility='Collapsed'>
           <Hyperlink x:Name='UpdateLink' Foreground='#E8B45A' TextDecorations='None'><Run Text=''/></Hyperlink>
